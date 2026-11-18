@@ -1,6 +1,8 @@
 # A data-driven framework for inferring selection preferences from archaeological routes
 
-This repository contains all the data and scripts required to fully reproduce all analyses presented in the paper "_A data-driven framework for inferring selection preferences from archaeological routes_" authored by **Lewis**, J
+This repository contains all the data and scripts required to fully reproduce all analyses presented in the paper "_A data-driven framework for inferring selection preferences from archaeological routes_" authored by **Lewis**, J.
+
+Please access data and scripts via Zenodo: 
 
 Getting Started
 ---------------
